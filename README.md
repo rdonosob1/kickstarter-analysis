@@ -15,7 +15,9 @@ This analysis is performed utilizing the Kickstarter data file which contains in
 In addition to that, and considering that Louise first intention was to start a crowdfunding campaign to help fund her play, *Fever*. Then, it is really important to compare all the campaigns within the same subcategory "plays". Therefore, the next step will be to filter all the theater campaigns into this subcategory, in order to compare similar campaigns. "Apples" to "apples".
 
 Finally, the last step consists in analyzing crowdfunding data to determine whether there are specific factors that make a project's campaign successful, as well as understanding campaigns from start to finish, to set up Louise's campaign to mirror other successful ones in the same category. In this last step the information will be sorted as detailed below:
+
 •	Outcomes vs launch date to visualize if there is any relationship between outcomes and launch month.
+
 •	Outcomes based on Goals to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount
 
 ### Analysis of Outcomes Based on Launch Date
