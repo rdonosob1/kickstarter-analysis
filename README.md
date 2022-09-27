@@ -47,18 +47,19 @@ In addition to that, I can say that the information needs to be sorted out befor
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-•	It is clear that during the months of May to June there is a peak on the number of successful theater campaigns showing higher results of 111 and 100 successful campaigns respectively, while the contrary is seen during the month of December with only 37 successful campaigns. On the other hand, it is clear that failed and cancelled campaigns fluctuate a little bit, but they tend to be steadier across the year.
-•	With the previous findings, Louise should focus to launch her campaign between May to June. 
+1) What are two conclusions you can draw about the Outcomes based on Launch Date?
+-It is clear that during the months of May to June there is a peak on the number of successful theater campaigns showing higher results of 111 and 100 successful campaigns respectively, while the contrary is seen during the month of December with only 37 successful campaigns. On the other hand, it is clear that failed and cancelled campaigns fluctuate a little bit, but they tend to be steadier across the year.
+-With the previous findings, Louise should focus to launch her campaign between May to June. 
 
-- What can you conclude about the Outcomes based on Goals?
-A high goal amount may affect the campaign. It is clear that projects with goals over $25,000.00 USD are more likely to fail than to succeed. while on the other hand, projects with a lower goal amount are more tend to succeed, specially projects with goal amounts ranging between $1,000.00 to $5,000.00 USD.
+2) What can you conclude about the Outcomes based on Goals?
+-A high goal amount may affect the campaign. It is clear that projects with goals over $25,000.00 USD are more likely to fail than to succeed. while on the other hand, projects with a lower goal amount are more tend to succeed, specially projects with goal amounts ranging between $1,000.00 to $5,000.00 USD.
 
-- What are some limitations of this dataset?
-The data is for the theater and plays categories and subcategories is from 2014 to 2017. Current trends and also after the pandemic, trends may have changed.
-The data is not discriminating consumers by age, genre, education, religious orientation and beliefs, cultural trends, and other factors.
-- What are some other possible tables and/or graphs that we could create?
+3) What are some limitations of this dataset?
+-The data is for the theater and plays categories and subcategories is from 2014 to 2017. Current trends and also after the pandemic, trends may have changed.
+-The data is not discriminating consumers by age, genre, education, religious orientation and beliefs, cultural trends, and other factors.
+
+4) What are some other possible tables and/or graphs that we could create?
 The other tables and graphs that may be created for additional analysis are detailed below:
 
-•   Theater Outcomes Based on Deadline, as well as a graph (line chart) titled "Theater Outcomes Based on Deadline" to visualize the relationship between the number of successful, failed, or canceled projects by month, the deadline months on the x-axis and the number of successful, failed, or canceled projects on the y-axis.
-•   Outcomes Based on Goal by country to narrow down the information from country to country. Due to each country population needs and likes may respond to different factors such as: demographic, cultural, socio-economic, political, geographical, etc.
+-Theater Outcomes Based on Deadline, as well as a graph (line chart) titled "Theater Outcomes Based on Deadline" to visualize the relationship between the number of successful, failed, or canceled projects by month, the deadline months on the x-axis and the number of successful, failed, or canceled projects on the y-axis.
+-Outcomes Based on Goal by country to narrow down the information from country to country. Due to each country population needs and likes may respond to different factors such as: demographic, cultural, socio-economic, political, geographical, etc.
