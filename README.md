@@ -16,7 +16,7 @@ In addition to that, and considering that Louise first intention was to start a 
 
 Finally, the last step consists in analyzing crowdfunding data to determine whether there are specific factors that make a project's campaign successful, as well as understanding campaigns from start to finish, to set up Louise's campaign to mirror other successful ones in the same category. In this last step the information will be sorted as detailed below:
 
-  •	Outcomes vs launch date to visualize if there is any relationship between outcomes and launch month.
+  - Outcomes vs launch date to visualize if there is any relationship between outcomes and launch month.
   
   •	Outcomes based on Goals to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount
 
