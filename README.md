@@ -39,8 +39,7 @@ Followed the previous step, a new analysis needs to show if there would be a rel
 
 Finally, likewise it was done in the previous analysis, it'd be vital to create a line chart "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. (Line Chart shown below).
 
-![image](https
-b.com/rdonosob1/kickstarter-analysis/blob/main/Outcomes%20Vs%20Goals.png)
+![image](https://github.com/rdonosob1/kickstarter-analysis/blob/main/Outcomes%20Vs%20Goals.png)
 
 ### Challenges and Difficulties Encountered
 There wasn't any important challenge or difficulties in this assignment. However, I have never converted before the deadline and launch date data (numbers in seconds) into date formats. 
