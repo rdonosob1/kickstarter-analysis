@@ -30,7 +30,8 @@ In addition to that, and in order to have a better visibility of the information
 ![image](https://github.com/rdonosob1/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 It is clear that during the months of May to June there is a peak on the number of successful theater campaigns showing higher results of 111 and 100 successful campaigns respectively, while the contrary is seen during the month of December with only 37 successful campaigns. On the other hand, it is clear that failed and cancelled campaigns fluctuate a little bit, but they tend to be steadier across the year.
-•   With the previous findings, Louise should focus to launch her campaign between May to June.
+
+• With the previous findings, Louise should focus to launch her campaign between May to June.
 
 ### Analysis of Outcomes Based on Goals
 Followed the previous step, a new analysis needs to show if there would be a relationship between the goal-amount with the number of successful, failed, and canceled campaigns. Therefore, based on that, it is necessary to develop a table with a dollar-amount-range, so projects can be grouped on their goal-amount. Right after that, the table will calculate the percentage of successful, failed and canceled plays per dollar-range. (Table shown below)
